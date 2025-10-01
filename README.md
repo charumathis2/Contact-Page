@@ -10,8 +10,11 @@
 🛠️ Tech Stack
 
   ⚛️ React 19
+  
   ⚡ Vite (for fast development + build)
+  
   🎨 React Icons
+  
   🌐 GitHub Pages (for deployment)
 
  
